@@ -10,9 +10,12 @@ body {
 h1,
 h2,
 strong {
-    color: #333;
+    color: #50c036;
 }
 
+    .different {
+        color:#535355
+    }
 img {
     margin-top: 1em;
     padding-top: 1em;
